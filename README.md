@@ -62,3 +62,16 @@ O projeto acompanha imagens ilustrando exemplos de Vertex Cover aplicados ao pro
 Este material foi produzido para fins didáticos, facilitando a compreensão do problema, da técnica gulosa e de seu comportamento em grafos pequenos e médios.
 
 ---
+
+## YouTube
+
+**Apresentação do Algoritmo**: [[LINK PARA O VIDEO NO YOUTUBE]]
+
+---
+
+**Desenvolvido por**:
+* Caio Vasconcelos Silva Andrade  
+* Ian Sandes Alves
+* José Wilson Martins Filho
+**Disciplina**: Projeto e Análise de Algoritmos (PAA)  
+**Instituição**: UFS - Universidade Federal de Sergipe
