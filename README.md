@@ -70,8 +70,10 @@ Este material foi produzido para fins didáticos, facilitando a compreensão do 
 ---
 
 **Desenvolvido por**:
+
 * Caio Vasconcelos Silva Andrade  
 * Ian Sandes Alves
 * José Wilson Martins Filho
+
 **Disciplina**: Projeto e Análise de Algoritmos (PAA)  
 **Instituição**: UFS - Universidade Federal de Sergipe
