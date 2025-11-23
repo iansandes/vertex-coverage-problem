@@ -65,8 +65,8 @@ Este material foi produzido para fins didáticos, facilitando a compreensão do 
 
 ## YouTube
 
-**Apresentação do Algoritmo**: [[LINK PARA O VIDEO NO YOUTUBE]]
-
+**Apresentação do Algoritmo**: [[[LINK PARA O VIDEO NO YOUTUBE]]
+](https://www.youtube.com/watch?v=Y-q6nBVu8O8)
 ---
 
 **Desenvolvido por**:
